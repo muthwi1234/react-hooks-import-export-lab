@@ -6,4 +6,10 @@ function NavBar() {
       <a href="#home">I'm a link!</a>
     </nav>
   );
+	return (
+		<nav>
+			<a href="#home">I'm a link!</a>
+		</nav>
+	);
 }
+export default NavBar;
